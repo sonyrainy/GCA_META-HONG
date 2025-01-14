@@ -1,5 +1,7 @@
 😊경기 콘텐츠 진흥원 - **XR METAVERSE CAMPUS(XR CENTER) 행사**에 출품하여 "경기도지사상"을 수상한 VR 역사 방탈출 프로젝트 **META-HONG**입니다.😄
 
+→ 독립운동가, 홍범도 장군님의 생애를 체험해볼 수 있는 VR 역사 방탈출 게임 제작 프로젝트입니다.
+
 ---
 
 영상: [시연용 플레이 영상](https://youtu.be/omnW3mdH_uw)
